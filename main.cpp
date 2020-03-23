@@ -13,5 +13,6 @@ int main()
     cout<<A-B;
     cout<<A*B;
     cout<<A*B;
+    cout<<A/B;
     return 0;
 }
