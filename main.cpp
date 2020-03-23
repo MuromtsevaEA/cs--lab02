@@ -11,5 +11,6 @@ int main()
     cin>>B;
     cout<<A+B;
     cout<<A-B;
+    cout<<A*B;
     return 0;
 }
