@@ -4,15 +4,14 @@ using namespace std;
 
 int main()
 {
-    int A, B;
+    int a, b;
     cout << "A=" << endl;
-    cin>>A;
+    cin>>a;
     cout << "B" << endl;
-    cin>>B;
-    cout<<A+B;
-    cout<<A-B;
-    cout<<A*B;
-    cout<<A*B;
-    cout<<A/B;
+    cin>>b;
+     cout << "A + B = " << a + b << '\n';
+     cout<< "A - B = " << a - b << '\n';
+    cout << "A * B = " << a * b << '\n';
+     cout<< "A / B = " << a / b << '\n';
     return 0;
 }
